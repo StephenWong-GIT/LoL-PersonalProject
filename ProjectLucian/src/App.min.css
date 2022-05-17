@@ -1,0 +1,1 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");@use './assets/scss/' as *;*{padding:0;margin:0;box-sizing:border-box;-webkit-tap-highlight-color:transparent;user-select:none}html,body{font-size:100%;position:relative}.App{height:100%}

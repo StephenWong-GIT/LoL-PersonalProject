@@ -11,7 +11,6 @@
     }
 
     &.active &__content {
-        transition: transform .3s ease, opacity .5s ease;
         transform: sacle(1);
         opacity: 1;
         transition-delay: .3s;
@@ -23,6 +22,6 @@
         transform: scale(3);
         opacity: 0;
         transition: transform 0.6s ease, opacity 0.5s ease;
-        padding-top: $header-height;
+        padding-top: '$header-height' ;
     }
 }

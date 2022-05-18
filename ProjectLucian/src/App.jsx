@@ -5,6 +5,7 @@ import 'swiper/css/effect-fade'
 import './App.scss'
 import Header from './components/header/Header'
 import Home from './pages/Home'
+import { Welcome } from './components/home section'
 
 function App() {
   return (

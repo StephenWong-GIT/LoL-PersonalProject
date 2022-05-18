@@ -43,8 +43,8 @@ const Welcome = props => {
                         </div>
                     </div>
                 </div>
-            <div className="welcome__img relative"></div>
-        </HomeSection>
+                <div className="welcome__img relative"></div>
+            </HomeSection>
     )
 }
 
